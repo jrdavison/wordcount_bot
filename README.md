@@ -13,6 +13,7 @@ Create a reddit developer account. Instructions on how to set up that account ca
 Edit settings.py with information specific to your account
 
 Clone the repository: `git clone https://github.com/jrdavison/wordcount-bot.git`
+
 Install required packages: `pip install -r requirements.txt`
 
 In the root of the repository run the wordcount.py file:

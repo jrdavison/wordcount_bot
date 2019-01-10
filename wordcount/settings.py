@@ -1,8 +1,16 @@
-# fill this in with appropriate account information
-APP_ID = 'BLJZtrCf0mHNmA'
-APP_SECRET = 'nYPTL-skbfTFbs-c1T5zzhKy7wo'
-USERNAME = 'msu-wordcount-app'
-PASSWORD = 'password_wordcount'
+##########################################
+###        REDDIT DEV ACCOUNT INFO     ###
+##########################################
+
+APP_ID = ''
+APP_SECRET = ''
+USERNAME = ''
+PASSWORD = ''
+
+
+###########################################
+###             APP SETTINGS            ###
+###########################################
 
 IGNORED_WORDS = ['a','about','above','across','after','against','all','along',\
 'although','among','an','and','another','any','are','around','as','at','back',\
